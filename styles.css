@@ -1,0 +1,276 @@
+h1 {
+    text-align: center;
+    width: 320px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: rgb(78, 76, 76);
+}
+
+body {
+    background: rgb(48, 47, 47);
+}
+
+#resultTv {
+    height: 100px;
+    width: 320px;
+    background: rgb(255, 255, 255);
+    text-align: left;
+    resize: none;
+    pointer-events: none;
+    font-size: 50px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#btnC {
+    background: rgb(36, 36, 36);
+    color: rgb(255, 0, 0);
+    width: 80px;
+    height: 80px;
+    font-size: 30px;
+    border-radius: 100px;
+}
+
+#btnSrc {
+    background: rgb(36, 36, 36);
+    color: rgb(248, 150, 4);
+    width: 80px;
+    height: 80px;
+    font-size: 30px;
+    border-radius: 100px;
+}
+
+#btnProcent {
+    background: rgb(36, 36, 36);
+    color: rgb(248, 150, 4);
+    width: 80px;
+    height: 80px;
+    font-size: 30px;
+    border-radius: 100px;
+}
+
+#btnDel {
+    background: rgb(36, 36, 36);
+    color: rgb(248, 150, 4);
+    width: 80px;
+    height: 80px;
+    font-size: 30px;
+    border-radius: 100px;
+}
+
+#btnMinus {
+    background: rgb(36, 36, 36);
+    color: rgb(248, 150, 4);
+    width: 80px;
+    height: 80px;
+    font-size: 30px;
+    border-radius: 100px;
+}
+
+#btnPlus {
+    background: rgb(36, 36, 36);
+    color: rgb(248, 150, 4);
+    width: 80px;
+    height: 80px;
+    font-size: 30px;
+    border-radius: 100px;
+}
+
+#btnX {
+    background: rgb(36, 36, 36);
+    color: rgb(248, 150, 4);
+    width: 80px;
+    height: 80px;
+    font-size: 25px;
+    border-radius: 100px;
+}
+
+#btnEquals {
+    background: rgb(20, 179, 30);
+    color: white;
+    width: 80px;
+    height: 80px;
+    font-size: 30px;
+    border-radius: 100px;
+}
+
+#apostrof {
+    background: rgb(36, 36, 36);
+    color: white;
+    width: 80px;
+    height: 80px;
+    font-size: 30px;
+    border-radius: 100px;
+}
+
+#btnPlusorMinus {
+    background: rgb(36, 36, 36);
+    color: white;
+    width: 80px;
+    height: 80px;
+    font-size: 30px;
+    border-radius: 100px;
+}
+
+#btn9 {
+    background: rgb(36, 36, 36);
+    color: white;
+    width: 80px;
+    height: 80px;
+    font-size: 30px;
+    border-radius: 100px;
+}
+
+#btn8 {
+    background: rgb(36, 36, 36);
+    color: white;
+    width: 80px;
+    height: 80px;
+    font-size: 30px;
+    border-radius: 100px;
+}
+
+#btn7 {
+    background: rgb(36, 36, 36);
+    color: white;
+    width: 80px;
+    height: 80px;
+    font-size: 30px;
+    border-radius: 100px;
+}
+
+#btn6 {
+    background: rgb(36, 36, 36);
+    color: white;
+    width: 80px;
+    height: 80px;
+    font-size: 30px;
+    border-radius: 100px;
+}
+
+#btn5 {
+    background: rgb(36, 36, 36);
+    color: white;
+    width: 80px;
+    height: 80px;
+    font-size: 30px;
+    border-radius: 100px;
+}
+
+#btn4 {
+    background: rgb(36, 36, 36);
+    color: white;
+    width: 80px;
+    height: 80px;
+    font-size: 30px;
+    border-radius: 100px;
+}
+
+#btn3 {
+    background: rgb(36, 36, 36);
+    color: white;
+    width: 80px;
+    height: 80px;
+    font-size: 30px;
+    border-radius: 100px;
+}
+
+#btn2 {
+    background: rgb(36, 36, 36);
+    color: white;
+    width: 80px;
+    height: 80px;
+    font-size: 30px;
+    border-radius: 100px;
+}
+
+#btn1 {
+    background: rgb(36, 36, 36);
+    color: white;
+    width: 80px;
+    height: 80px;
+    font-size: 30px;
+    border-radius: 100px;
+}
+
+#btn0 {
+    background: rgb(36, 36, 36);
+    color: white;
+    width: 80px;
+    height: 80px;
+    font-size: 30px;
+    border-radius: 100px;
+}
+
+#zeroGrid {
+    width: auto;
+    height: auto;
+    display:inline-block;
+}
+
+#oneGrid{
+    width: auto;
+    height: auto;
+    display:inline-block;
+}
+
+#twoGrid{
+    width: auto;
+    height: auto;
+    display:inline-block;
+}
+
+#threeGrid {
+    width: auto;
+    height: auto;
+    display:inline-block;
+}
+
+#fourGrid {
+    width: auto;
+    height: auto;
+    display:inline-block;
+}
+
+#fiveGrid {
+    width: auto;
+    height: auto;
+    display:inline-block;
+}
+
+#image {
+    width: 40px;
+    height: 40px;
+}
+
+#btnDelSymbol {
+    background: rgb(254, 0, 0);
+    width: 80px;
+    height: 80px;
+    border-radius: 100px;
+}
+
+#btn00 {
+    background: rgb(36, 36, 36);
+    color: white;
+    width: 80px;
+    height: 80px;
+    font-size: 30px;
+    border-radius: 100px;
+}
+
+#btn000 {
+    background: rgb(36, 36, 36);
+    color: white;
+    width: 80px;
+    height: 80px;
+    font-size: 30px;
+    border-radius: 100px;
+}
+
+#btnSqrt {
+    background: rgb(36, 36, 36);
+    color: rgb(255, 179, 0);
+    width: 80px;
+    height: 80px;
+    font-size: 30px;
+    border-radius: 100px;
+}
