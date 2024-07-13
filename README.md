@@ -1,2 +1,2 @@
 # HTML-CSS-Calculator
-вёрстка калькулятора с использованием css и html
+layout of the calculator using css and html
